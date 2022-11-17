@@ -2,7 +2,7 @@
 
 🏕️Projetinho do bootcamp da DIO de análise de dados com ciência de dados sobre o COVID-19.
 
-🎯O objetivo foi criar modelos com Python e Marchine Learning para prever a evolução do COVID-19 no Brasil.
+🎯O objetivo foi criar modelos com Python para prever a evolução do COVID-19 no Brasil.
 
 
 
